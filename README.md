@@ -11,9 +11,12 @@ None of these tweaks are mandatory and you can cherry pick what you want to appl
 
 ### Design
 
-- [Smaller titlebar height for non-GTK applications](Design/smaller_titlebar_for_non-gtk_applications)
+- [Decrease the gap between system tray icons](design/decrease_the_gap_between_system_tray_icons)
+- [Smaller titlebar height for non-GTK applications](design/smaller_titlebar_for_non-gtk_applications)
 
 ### System
+
+- [Show 3rd party system tray icons](system/show_3rd_party_system_tray_icons)
 
 ## Contributing
 

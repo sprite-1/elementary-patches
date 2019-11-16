@@ -8,7 +8,7 @@ On smaller screens, every space is valuable. For non-GTK apps, the titlebar cont
 
 ## How?
 
-Go to `/usr/share/themes/elementary/gtk-3.0/apps.css` paste the block of code below at the bottom of the file.
+Edit `/usr/share/themes/elementary/gtk-3.0/apps.css` and paste the block of code below at the bottom of the file.
 
 > __NEWBIE TIP:__ You need root permission to edit this file. So open up the Terminal and paste the following:  
 `sudo io.elementary.code /usr/share/themes/elementary/gtk-3.0/apps.css`  
