@@ -11,7 +11,7 @@ None of these tweaks are mandatory and you can cherry pick what you want to appl
 
 ### Design
 
-- [Smaller titlebar height for non-GTK applications](smaller_titlebar_for_non-gtk_applications)
+- [Smaller titlebar height for non-GTK applications](Design/smaller_titlebar_for_non-gtk_applications)
 
 ### System
 
