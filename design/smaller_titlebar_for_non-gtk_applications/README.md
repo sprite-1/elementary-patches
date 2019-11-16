@@ -52,4 +52,5 @@ Enter your user password once you're asked for it. This will open an elevated in
 		min-height: 0;
 	}
 
+---
 [elementary-patches](https://github.com/sprite-1/elementary-patches)
